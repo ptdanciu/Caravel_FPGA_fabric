@@ -1,0 +1,50 @@
+Host command: /usr/caen/incisiv-15.20.084/tools/verilog/bin/verilog.exe
+Command arguments:
+    fpga_top.v
+
+Tool:	VERILOG-XL	08.20.001-d log file created Mar 20, 2022  17:51:43
+Tool:	VERILOG-XL	08.20.001-d   Mar 20, 2022  17:51:43
+
+Copyright (c) 1995-2004 Cadence Design Systems, Inc.  All Rights Reserved.
+Unpublished -- rights reserved under the copyright laws of the United States.
+
+Copyright (c) 1995-2004 UNIX Systems Laboratories, Inc.  Reproduced with Permission.
+
+THIS SOFTWARE AND ON-LINE DOCUMENTATION CONTAIN CONFIDENTIAL INFORMATION
+AND TRADE SECRETS OF CADENCE DESIGN SYSTEMS, INC.  USE, DISCLOSURE, OR
+REPRODUCTION IS PROHIBITED WITHOUT THE PRIOR EXPRESS WRITTEN PERMISSION OF
+CADENCE DESIGN SYSTEMS, INC.
+RESTRICTED RIGHTS LEGEND
+
+Use, duplication, or disclosure by the Government is subject to
+restrictions as set forth in subparagraph (c)(1)(ii) of the Rights in
+Technical Data and Computer Software clause at DFARS 252.227-7013 or
+subparagraphs (c)(1) and (2) of Commercial Computer Software -- Restricted
+Rights at 48 CFR 52.227-19, as applicable.
+
+                Cadence Design Systems, Inc.
+                555 River Oaks Parkway
+                San Jose, California  95134
+
+For technical assistance please contact the Cadence Response Center at
+1-877-CDS-4911 or send email to support@cadence.com
+
+For more information on Cadence's Verilog-XL product line send email to
+talkv@cadence.com
+
+Compiling source file "fpga_top.v"
+
+Error!    ERROR (LMF-02005): License call failed for                           
+          feature VERILOG-XL, version 8.200 and quantity                       
+          1. The license server search path is defined as                      
+          /usr/caen/FLEXlm/data/license.dat.cadence:/usr/ca                    
+          en/incisiv-15.20.084/share/license/license.dat.                      
+          The FLEXnet error message is as follows,                             
+          FLEXnet ERROR(-5, 0, 0): No such feature                             
+          exists.                                                              
+                                                                               
+          Run 'lic_error LMF-02005' for more information..                     
+          Feature is VERILOG-XL                             [Verilog-LICENSE]
+
+Error!    Check-in of license for feature VERILOG-XL was                       
+          not possible                                      [Verilog-LMFCIN]

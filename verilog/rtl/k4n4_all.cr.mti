@@ -1,0 +1,622 @@
+/afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_top.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_top.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module grid_io_top
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_top.v(36): (vlog-2892) Net type of 'gfpga_pad_GPIO_PAD' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_top.v(38): (vlog-2892) Net type of 'bottom_width_0_height_0_subtile_0__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_top.v(40): (vlog-2892) Net type of 'bottom_width_0_height_0_subtile_1__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_top.v(42): (vlog-2892) Net type of 'bottom_width_0_height_0_subtile_2__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_top.v(44): (vlog-2892) Net type of 'bottom_width_0_height_0_subtile_3__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_top.v(46): (vlog-2892) Net type of 'bottom_width_0_height_0_subtile_4__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_top.v(48): (vlog-2892) Net type of 'bottom_width_0_height_0_subtile_5__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_top.v(50): (vlog-2892) Net type of 'bottom_width_0_height_0_subtile_6__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_top.v(52): (vlog-2892) Net type of 'bottom_width_0_height_0_subtile_7__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_top.v(54): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_top.v(56): (vlog-2892) Net type of 'wl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_top.v(58): (vlog-2892) Net type of 'bottom_width_0_height_0_subtile_0__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_top.v(60): (vlog-2892) Net type of 'bottom_width_0_height_0_subtile_1__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_top.v(62): (vlog-2892) Net type of 'bottom_width_0_height_0_subtile_2__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_top.v(64): (vlog-2892) Net type of 'bottom_width_0_height_0_subtile_3__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_top.v(66): (vlog-2892) Net type of 'bottom_width_0_height_0_subtile_4__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_top.v(68): (vlog-2892) Net type of 'bottom_width_0_height_0_subtile_5__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_top.v(70): (vlog-2892) Net type of 'bottom_width_0_height_0_subtile_6__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_top.v(72): (vlog-2892) Net type of 'bottom_width_0_height_0_subtile_7__pin_inpad_0_' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/shift_register_banks.v {1 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/shift_register_banks.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_io_mode_io_.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_io_mode_io_.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module logical_tile_io_mode_io_
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_io_mode_io_.v(22): (vlog-2892) Net type of 'gfpga_pad_GPIO_PAD' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_io_mode_io_.v(26): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_io_mode_io_.v(28): (vlog-2892) Net type of 'wl' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module sb_0__1_
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(40): (vlog-2892) Net type of 'chanx_right_in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(42): (vlog-2892) Net type of 'right_top_grid_bottom_width_0_height_0_subtile_0__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(44): (vlog-2892) Net type of 'right_top_grid_bottom_width_0_height_0_subtile_1__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(46): (vlog-2892) Net type of 'right_top_grid_bottom_width_0_height_0_subtile_2__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(48): (vlog-2892) Net type of 'right_top_grid_bottom_width_0_height_0_subtile_3__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(50): (vlog-2892) Net type of 'right_top_grid_bottom_width_0_height_0_subtile_4__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(52): (vlog-2892) Net type of 'right_top_grid_bottom_width_0_height_0_subtile_5__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(54): (vlog-2892) Net type of 'right_top_grid_bottom_width_0_height_0_subtile_6__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(56): (vlog-2892) Net type of 'right_top_grid_bottom_width_0_height_0_subtile_7__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(58): (vlog-2892) Net type of 'right_bottom_grid_top_width_0_height_0_subtile_0__pin_O_2_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(60): (vlog-2892) Net type of 'chany_bottom_in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(62): (vlog-2892) Net type of 'bottom_right_grid_left_width_0_height_0_subtile_0__pin_O_1_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(64): (vlog-2892) Net type of 'bottom_left_grid_right_width_0_height_0_subtile_0__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(66): (vlog-2892) Net type of 'bottom_left_grid_right_width_0_height_0_subtile_1__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(68): (vlog-2892) Net type of 'bottom_left_grid_right_width_0_height_0_subtile_2__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(70): (vlog-2892) Net type of 'bottom_left_grid_right_width_0_height_0_subtile_3__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(72): (vlog-2892) Net type of 'bottom_left_grid_right_width_0_height_0_subtile_4__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(74): (vlog-2892) Net type of 'bottom_left_grid_right_width_0_height_0_subtile_5__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(76): (vlog-2892) Net type of 'bottom_left_grid_right_width_0_height_0_subtile_6__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(78): (vlog-2892) Net type of 'bottom_left_grid_right_width_0_height_0_subtile_7__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(80): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(82): (vlog-2892) Net type of 'wl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(84): (vlog-2892) Net type of 'chanx_right_out' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__1_.v(86): (vlog-2892) Net type of 'chany_bottom_out' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__0_.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__0_.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module cbx_1__0_
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__0_.v(33): (vlog-2892) Net type of 'chanx_left_in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__0_.v(35): (vlog-2892) Net type of 'chanx_right_in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__0_.v(37): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__0_.v(39): (vlog-2892) Net type of 'wl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__0_.v(41): (vlog-2892) Net type of 'chanx_left_out' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__0_.v(43): (vlog-2892) Net type of 'chanx_right_out' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__0_.v(45): (vlog-2892) Net type of 'top_grid_bottom_width_0_height_0_subtile_0__pin_I_2_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__0_.v(47): (vlog-2892) Net type of 'top_grid_bottom_width_0_height_0_subtile_0__pin_I_6_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__0_.v(49): (vlog-2892) Net type of 'top_grid_bottom_width_0_height_0_subtile_0__pin_clk_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__0_.v(51): (vlog-2892) Net type of 'bottom_grid_top_width_0_height_0_subtile_0__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__0_.v(53): (vlog-2892) Net type of 'bottom_grid_top_width_0_height_0_subtile_1__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__0_.v(55): (vlog-2892) Net type of 'bottom_grid_top_width_0_height_0_subtile_2__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__0_.v(57): (vlog-2892) Net type of 'bottom_grid_top_width_0_height_0_subtile_3__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__0_.v(59): (vlog-2892) Net type of 'bottom_grid_top_width_0_height_0_subtile_4__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__0_.v(61): (vlog-2892) Net type of 'bottom_grid_top_width_0_height_0_subtile_5__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__0_.v(63): (vlog-2892) Net type of 'bottom_grid_top_width_0_height_0_subtile_6__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__0_.v(65): (vlog-2892) Net type of 'bottom_grid_top_width_0_height_0_subtile_7__pin_outpad_0_' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/wires.v {1 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/wires.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module direct_interc
+
+Top level modules:
+	direct_interc
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_clb_.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_clb_.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module logical_tile_clb_mode_clb_
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_clb_.v(25): (vlog-2892) Net type of 'set' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_clb_.v(27): (vlog-2892) Net type of 'reset' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_clb_.v(29): (vlog-2892) Net type of 'clk' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_clb_.v(35): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_clb_.v(37): (vlog-2892) Net type of 'wl' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module sb_1__1_
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(40): (vlog-2892) Net type of 'chany_bottom_in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(42): (vlog-2892) Net type of 'bottom_right_grid_left_width_0_height_0_subtile_0__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(44): (vlog-2892) Net type of 'bottom_right_grid_left_width_0_height_0_subtile_1__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(46): (vlog-2892) Net type of 'bottom_right_grid_left_width_0_height_0_subtile_2__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(48): (vlog-2892) Net type of 'bottom_right_grid_left_width_0_height_0_subtile_3__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(50): (vlog-2892) Net type of 'bottom_right_grid_left_width_0_height_0_subtile_4__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(52): (vlog-2892) Net type of 'bottom_right_grid_left_width_0_height_0_subtile_5__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(54): (vlog-2892) Net type of 'bottom_right_grid_left_width_0_height_0_subtile_6__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(56): (vlog-2892) Net type of 'bottom_right_grid_left_width_0_height_0_subtile_7__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(58): (vlog-2892) Net type of 'bottom_left_grid_right_width_0_height_0_subtile_0__pin_O_3_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(60): (vlog-2892) Net type of 'chanx_left_in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(62): (vlog-2892) Net type of 'left_top_grid_bottom_width_0_height_0_subtile_0__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(64): (vlog-2892) Net type of 'left_top_grid_bottom_width_0_height_0_subtile_1__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(66): (vlog-2892) Net type of 'left_top_grid_bottom_width_0_height_0_subtile_2__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(68): (vlog-2892) Net type of 'left_top_grid_bottom_width_0_height_0_subtile_3__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(70): (vlog-2892) Net type of 'left_top_grid_bottom_width_0_height_0_subtile_4__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(72): (vlog-2892) Net type of 'left_top_grid_bottom_width_0_height_0_subtile_5__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(74): (vlog-2892) Net type of 'left_top_grid_bottom_width_0_height_0_subtile_6__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(76): (vlog-2892) Net type of 'left_top_grid_bottom_width_0_height_0_subtile_7__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(78): (vlog-2892) Net type of 'left_bottom_grid_top_width_0_height_0_subtile_0__pin_O_2_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(80): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(82): (vlog-2892) Net type of 'wl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(84): (vlog-2892) Net type of 'chany_bottom_out' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__1_.v(86): (vlog-2892) Net type of 'chanx_left_out' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fpga_defines.v {1 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fpga_defines.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2_formal_random_top_tb.v {1 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2_formal_random_top_tb.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module and2_top_formal_verification_random_tb
+
+Top level modules:
+	and2_top_formal_verification_random_tb
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module logical_tile_clb_mode_default__fle
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle.v(25): (vlog-2892) Net type of 'set' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle.v(27): (vlog-2892) Net type of 'reset' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle.v(29): (vlog-2892) Net type of 'clk' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle.v(35): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle.v(37): (vlog-2892) Net type of 'wl' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/arch_encoder.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/arch_encoder.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module decoder_with_data_in_5to29
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/arch_encoder.v(20): (vlog-2892) Net type of 'enable' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/arch_encoder.v(22): (vlog-2892) Net type of 'address' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/arch_encoder.v(24): (vlog-2892) Net type of 'data_in' was not explicitly declared.
+-- Compiling module decoder5to29
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/arch_encoder.v(92): (vlog-2892) Net type of 'enable' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/arch_encoder.v(94): (vlog-2892) Net type of 'address' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_left.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_left.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module grid_io_left
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_left.v(36): (vlog-2892) Net type of 'gfpga_pad_GPIO_PAD' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_left.v(38): (vlog-2892) Net type of 'right_width_0_height_0_subtile_0__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_left.v(40): (vlog-2892) Net type of 'right_width_0_height_0_subtile_1__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_left.v(42): (vlog-2892) Net type of 'right_width_0_height_0_subtile_2__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_left.v(44): (vlog-2892) Net type of 'right_width_0_height_0_subtile_3__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_left.v(46): (vlog-2892) Net type of 'right_width_0_height_0_subtile_4__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_left.v(48): (vlog-2892) Net type of 'right_width_0_height_0_subtile_5__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_left.v(50): (vlog-2892) Net type of 'right_width_0_height_0_subtile_6__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_left.v(52): (vlog-2892) Net type of 'right_width_0_height_0_subtile_7__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_left.v(54): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_left.v(56): (vlog-2892) Net type of 'wl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_left.v(58): (vlog-2892) Net type of 'right_width_0_height_0_subtile_0__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_left.v(60): (vlog-2892) Net type of 'right_width_0_height_0_subtile_1__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_left.v(62): (vlog-2892) Net type of 'right_width_0_height_0_subtile_2__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_left.v(64): (vlog-2892) Net type of 'right_width_0_height_0_subtile_3__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_left.v(66): (vlog-2892) Net type of 'right_width_0_height_0_subtile_4__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_left.v(68): (vlog-2892) Net type of 'right_width_0_height_0_subtile_5__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_left.v(70): (vlog-2892) Net type of 'right_width_0_height_0_subtile_6__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_left.v(72): (vlog-2892) Net type of 'right_width_0_height_0_subtile_7__pin_inpad_0_' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fpga_top.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fpga_top.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module fpga_top
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fpga_top.v(24): (vlog-2892) Net type of 'set' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fpga_top.v(26): (vlog-2892) Net type of 'reset' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fpga_top.v(28): (vlog-2892) Net type of 'clk' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fpga_top.v(30): (vlog-2892) Net type of 'gfpga_pad_GPIO_PAD' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fpga_top.v(32): (vlog-2892) Net type of 'enable' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fpga_top.v(34): (vlog-2892) Net type of 'bl_address' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fpga_top.v(36): (vlog-2892) Net type of 'wl_address' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fpga_top.v(38): (vlog-2892) Net type of 'data_in' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/inv_buf_passgate.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/inv_buf_passgate.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module const0
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/inv_buf_passgate.v(17): (vlog-2892) Net type of 'const0' was not explicitly declared.
+-- Compiling module const1
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/inv_buf_passgate.v(39): (vlog-2892) Net type of 'const1' was not explicitly declared.
+-- Compiling module INVTX1
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/inv_buf_passgate.v(62): (vlog-2892) Net type of 'in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/inv_buf_passgate.v(64): (vlog-2892) Net type of 'out' was not explicitly declared.
+-- Compiling module buf4
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/inv_buf_passgate.v(96): (vlog-2892) Net type of 'in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/inv_buf_passgate.v(98): (vlog-2892) Net type of 'out' was not explicitly declared.
+-- Compiling module tap_buf4
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/inv_buf_passgate.v(130): (vlog-2892) Net type of 'in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/inv_buf_passgate.v(132): (vlog-2892) Net type of 'out' was not explicitly declared.
+-- Compiling module TGATE
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/inv_buf_passgate.v(166): (vlog-2892) Net type of 'in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/inv_buf_passgate.v(168): (vlog-2892) Net type of 'sel' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/inv_buf_passgate.v(170): (vlog-2892) Net type of 'selb' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/inv_buf_passgate.v(172): (vlog-2892) Net type of 'out' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/luts.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/luts.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module lut4
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/luts.v(22): (vlog-2892) Net type of 'sram' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/luts.v(24): (vlog-2892) Net type of 'sram_inv' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_bottom.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_bottom.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module grid_io_bottom
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_bottom.v(36): (vlog-2892) Net type of 'gfpga_pad_GPIO_PAD' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_bottom.v(38): (vlog-2892) Net type of 'top_width_0_height_0_subtile_0__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_bottom.v(40): (vlog-2892) Net type of 'top_width_0_height_0_subtile_1__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_bottom.v(42): (vlog-2892) Net type of 'top_width_0_height_0_subtile_2__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_bottom.v(44): (vlog-2892) Net type of 'top_width_0_height_0_subtile_3__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_bottom.v(46): (vlog-2892) Net type of 'top_width_0_height_0_subtile_4__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_bottom.v(48): (vlog-2892) Net type of 'top_width_0_height_0_subtile_5__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_bottom.v(50): (vlog-2892) Net type of 'top_width_0_height_0_subtile_6__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_bottom.v(52): (vlog-2892) Net type of 'top_width_0_height_0_subtile_7__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_bottom.v(54): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_bottom.v(56): (vlog-2892) Net type of 'wl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_bottom.v(58): (vlog-2892) Net type of 'top_width_0_height_0_subtile_0__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_bottom.v(60): (vlog-2892) Net type of 'top_width_0_height_0_subtile_1__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_bottom.v(62): (vlog-2892) Net type of 'top_width_0_height_0_subtile_2__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_bottom.v(64): (vlog-2892) Net type of 'top_width_0_height_0_subtile_3__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_bottom.v(66): (vlog-2892) Net type of 'top_width_0_height_0_subtile_4__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_bottom.v(68): (vlog-2892) Net type of 'top_width_0_height_0_subtile_5__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_bottom.v(70): (vlog-2892) Net type of 'top_width_0_height_0_subtile_6__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_bottom.v(72): (vlog-2892) Net type of 'top_width_0_height_0_subtile_7__pin_inpad_0_' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module sb_0__0_
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(40): (vlog-2892) Net type of 'chany_top_in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(42): (vlog-2892) Net type of 'top_left_grid_right_width_0_height_0_subtile_0__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(44): (vlog-2892) Net type of 'top_left_grid_right_width_0_height_0_subtile_1__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(46): (vlog-2892) Net type of 'top_left_grid_right_width_0_height_0_subtile_2__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(48): (vlog-2892) Net type of 'top_left_grid_right_width_0_height_0_subtile_3__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(50): (vlog-2892) Net type of 'top_left_grid_right_width_0_height_0_subtile_4__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(52): (vlog-2892) Net type of 'top_left_grid_right_width_0_height_0_subtile_5__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(54): (vlog-2892) Net type of 'top_left_grid_right_width_0_height_0_subtile_6__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(56): (vlog-2892) Net type of 'top_left_grid_right_width_0_height_0_subtile_7__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(58): (vlog-2892) Net type of 'top_right_grid_left_width_0_height_0_subtile_0__pin_O_1_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(60): (vlog-2892) Net type of 'chanx_right_in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(62): (vlog-2892) Net type of 'right_top_grid_bottom_width_0_height_0_subtile_0__pin_O_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(64): (vlog-2892) Net type of 'right_bottom_grid_top_width_0_height_0_subtile_0__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(66): (vlog-2892) Net type of 'right_bottom_grid_top_width_0_height_0_subtile_1__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(68): (vlog-2892) Net type of 'right_bottom_grid_top_width_0_height_0_subtile_2__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(70): (vlog-2892) Net type of 'right_bottom_grid_top_width_0_height_0_subtile_3__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(72): (vlog-2892) Net type of 'right_bottom_grid_top_width_0_height_0_subtile_4__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(74): (vlog-2892) Net type of 'right_bottom_grid_top_width_0_height_0_subtile_5__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(76): (vlog-2892) Net type of 'right_bottom_grid_top_width_0_height_0_subtile_6__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(78): (vlog-2892) Net type of 'right_bottom_grid_top_width_0_height_0_subtile_7__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(80): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(82): (vlog-2892) Net type of 'wl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(84): (vlog-2892) Net type of 'chany_top_out' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_0__0_.v(86): (vlog-2892) Net type of 'chanx_right_out' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2_top_formal_verification.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2_top_formal_verification.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module and2_top_formal_verification
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2_top_formal_verification.v(15): (vlog-2892) Net type of 'a_fm' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2_top_formal_verification.v(16): (vlog-2892) Net type of 'b_fm' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2_top_formal_verification.v(17): (vlog-2892) Net type of 'out_c_fm' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module mux_2level_tapbuf_size6_mem
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(20): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(22): (vlog-2892) Net type of 'wl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(24): (vlog-2892) Net type of 'mem_out' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(26): (vlog-2892) Net type of 'mem_outb' was not explicitly declared.
+-- Compiling module mux_2level_tapbuf_size4_mem
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(96): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(98): (vlog-2892) Net type of 'wl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(100): (vlog-2892) Net type of 'mem_out' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(102): (vlog-2892) Net type of 'mem_outb' was not explicitly declared.
+-- Compiling module mux_2level_tapbuf_size3_mem
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(172): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(174): (vlog-2892) Net type of 'wl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(176): (vlog-2892) Net type of 'mem_out' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(178): (vlog-2892) Net type of 'mem_outb' was not explicitly declared.
+-- Compiling module mux_2level_tapbuf_size2_mem
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(224): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(226): (vlog-2892) Net type of 'wl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(228): (vlog-2892) Net type of 'mem_out' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(230): (vlog-2892) Net type of 'mem_outb' was not explicitly declared.
+-- Compiling module mux_2level_size14_mem
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(276): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(278): (vlog-2892) Net type of 'wl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(280): (vlog-2892) Net type of 'mem_out' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(282): (vlog-2892) Net type of 'mem_outb' was not explicitly declared.
+-- Compiling module mux_1level_tapbuf_size2_mem
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(364): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(366): (vlog-2892) Net type of 'wl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(368): (vlog-2892) Net type of 'mem_out' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(370): (vlog-2892) Net type of 'mem_outb' was not explicitly declared.
+-- Compiling module lut4_SRAM_mem
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(422): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(424): (vlog-2892) Net type of 'wl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(426): (vlog-2892) Net type of 'mem_out' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(428): (vlog-2892) Net type of 'mem_outb' was not explicitly declared.
+-- Compiling module GPIO_SRAM_mem
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(558): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(560): (vlog-2892) Net type of 'wl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(562): (vlog-2892) Net type of 'mem_out' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/memories.v(564): (vlog-2892) Net type of 'mem_outb' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_right.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_right.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module grid_io_right
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_right.v(36): (vlog-2892) Net type of 'gfpga_pad_GPIO_PAD' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_right.v(38): (vlog-2892) Net type of 'left_width_0_height_0_subtile_0__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_right.v(40): (vlog-2892) Net type of 'left_width_0_height_0_subtile_1__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_right.v(42): (vlog-2892) Net type of 'left_width_0_height_0_subtile_2__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_right.v(44): (vlog-2892) Net type of 'left_width_0_height_0_subtile_3__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_right.v(46): (vlog-2892) Net type of 'left_width_0_height_0_subtile_4__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_right.v(48): (vlog-2892) Net type of 'left_width_0_height_0_subtile_5__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_right.v(50): (vlog-2892) Net type of 'left_width_0_height_0_subtile_6__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_right.v(52): (vlog-2892) Net type of 'left_width_0_height_0_subtile_7__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_right.v(54): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_right.v(56): (vlog-2892) Net type of 'wl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_right.v(58): (vlog-2892) Net type of 'left_width_0_height_0_subtile_0__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_right.v(60): (vlog-2892) Net type of 'left_width_0_height_0_subtile_1__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_right.v(62): (vlog-2892) Net type of 'left_width_0_height_0_subtile_2__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_right.v(64): (vlog-2892) Net type of 'left_width_0_height_0_subtile_3__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_right.v(66): (vlog-2892) Net type of 'left_width_0_height_0_subtile_4__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_right.v(68): (vlog-2892) Net type of 'left_width_0_height_0_subtile_5__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_right.v(70): (vlog-2892) Net type of 'left_width_0_height_0_subtile_6__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_io_right.v(72): (vlog-2892) Net type of 'left_width_0_height_0_subtile_7__pin_inpad_0_' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module sb_1__0_
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(40): (vlog-2892) Net type of 'chany_top_in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(42): (vlog-2892) Net type of 'top_left_grid_right_width_0_height_0_subtile_0__pin_O_3_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(44): (vlog-2892) Net type of 'top_right_grid_left_width_0_height_0_subtile_0__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(46): (vlog-2892) Net type of 'top_right_grid_left_width_0_height_0_subtile_1__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(48): (vlog-2892) Net type of 'top_right_grid_left_width_0_height_0_subtile_2__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(50): (vlog-2892) Net type of 'top_right_grid_left_width_0_height_0_subtile_3__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(52): (vlog-2892) Net type of 'top_right_grid_left_width_0_height_0_subtile_4__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(54): (vlog-2892) Net type of 'top_right_grid_left_width_0_height_0_subtile_5__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(56): (vlog-2892) Net type of 'top_right_grid_left_width_0_height_0_subtile_6__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(58): (vlog-2892) Net type of 'top_right_grid_left_width_0_height_0_subtile_7__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(60): (vlog-2892) Net type of 'chanx_left_in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(62): (vlog-2892) Net type of 'left_top_grid_bottom_width_0_height_0_subtile_0__pin_O_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(64): (vlog-2892) Net type of 'left_bottom_grid_top_width_0_height_0_subtile_0__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(66): (vlog-2892) Net type of 'left_bottom_grid_top_width_0_height_0_subtile_1__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(68): (vlog-2892) Net type of 'left_bottom_grid_top_width_0_height_0_subtile_2__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(70): (vlog-2892) Net type of 'left_bottom_grid_top_width_0_height_0_subtile_3__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(72): (vlog-2892) Net type of 'left_bottom_grid_top_width_0_height_0_subtile_4__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(74): (vlog-2892) Net type of 'left_bottom_grid_top_width_0_height_0_subtile_5__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(76): (vlog-2892) Net type of 'left_bottom_grid_top_width_0_height_0_subtile_6__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(78): (vlog-2892) Net type of 'left_bottom_grid_top_width_0_height_0_subtile_7__pin_inpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(80): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(82): (vlog-2892) Net type of 'wl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(84): (vlog-2892) Net type of 'chany_top_out' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/sb_1__0_.v(86): (vlog-2892) Net type of 'chanx_left_out' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module mux_2level_tapbuf_size6
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(20): (vlog-2892) Net type of 'in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(22): (vlog-2892) Net type of 'sram' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(24): (vlog-2892) Net type of 'sram_inv' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(26): (vlog-2892) Net type of 'out' was not explicitly declared.
+-- Compiling module mux_2level_tapbuf_size4
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(119): (vlog-2892) Net type of 'in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(121): (vlog-2892) Net type of 'sram' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(123): (vlog-2892) Net type of 'sram_inv' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(125): (vlog-2892) Net type of 'out' was not explicitly declared.
+-- Compiling module mux_2level_tapbuf_size3
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(201): (vlog-2892) Net type of 'in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(203): (vlog-2892) Net type of 'sram' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(205): (vlog-2892) Net type of 'sram_inv' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(207): (vlog-2892) Net type of 'out' was not explicitly declared.
+-- Compiling module mux_2level_tapbuf_size2
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(285): (vlog-2892) Net type of 'in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(287): (vlog-2892) Net type of 'sram' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(289): (vlog-2892) Net type of 'sram_inv' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(291): (vlog-2892) Net type of 'out' was not explicitly declared.
+-- Compiling module mux_2level_size14
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(357): (vlog-2892) Net type of 'in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(359): (vlog-2892) Net type of 'sram' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(361): (vlog-2892) Net type of 'sram_inv' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(363): (vlog-2892) Net type of 'out' was not explicitly declared.
+-- Compiling module mux_1level_tapbuf_size2
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(510): (vlog-2892) Net type of 'in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(512): (vlog-2892) Net type of 'sram' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(514): (vlog-2892) Net type of 'sram_inv' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(516): (vlog-2892) Net type of 'out' was not explicitly declared.
+-- Compiling module lut4_mux
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(575): (vlog-2892) Net type of 'in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(577): (vlog-2892) Net type of 'sram' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(579): (vlog-2892) Net type of 'sram_inv' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/muxes.v(581): (vlog-2892) Net type of 'out' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2_autocheck_top_tb.v {1 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2_autocheck_top_tb.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module and2_autocheck_top_tb
+
+Top level modules:
+	and2_autocheck_top_tb
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/local_encoder.v {1 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/local_encoder.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4_mode_default__lut4.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4_mode_default__lut4.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4_mode_default__lut4
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4_mode_default__lut4.v(22): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4_mode_default__lut4.v(24): (vlog-2892) Net type of 'wl' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_0__1_.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_0__1_.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module cby_0__1_
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_0__1_.v(32): (vlog-2892) Net type of 'chany_bottom_in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_0__1_.v(34): (vlog-2892) Net type of 'chany_top_in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_0__1_.v(36): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_0__1_.v(38): (vlog-2892) Net type of 'wl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_0__1_.v(40): (vlog-2892) Net type of 'chany_bottom_out' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_0__1_.v(42): (vlog-2892) Net type of 'chany_top_out' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_0__1_.v(44): (vlog-2892) Net type of 'right_grid_left_width_0_height_0_subtile_0__pin_I_3_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_0__1_.v(46): (vlog-2892) Net type of 'right_grid_left_width_0_height_0_subtile_0__pin_I_7_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_0__1_.v(48): (vlog-2892) Net type of 'left_grid_right_width_0_height_0_subtile_0__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_0__1_.v(50): (vlog-2892) Net type of 'left_grid_right_width_0_height_0_subtile_1__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_0__1_.v(52): (vlog-2892) Net type of 'left_grid_right_width_0_height_0_subtile_2__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_0__1_.v(54): (vlog-2892) Net type of 'left_grid_right_width_0_height_0_subtile_3__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_0__1_.v(56): (vlog-2892) Net type of 'left_grid_right_width_0_height_0_subtile_4__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_0__1_.v(58): (vlog-2892) Net type of 'left_grid_right_width_0_height_0_subtile_5__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_0__1_.v(60): (vlog-2892) Net type of 'left_grid_right_width_0_height_0_subtile_6__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_0__1_.v(62): (vlog-2892) Net type of 'left_grid_right_width_0_height_0_subtile_7__pin_outpad_0_' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__1_.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__1_.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module cbx_1__1_
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__1_.v(33): (vlog-2892) Net type of 'chanx_left_in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__1_.v(35): (vlog-2892) Net type of 'chanx_right_in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__1_.v(37): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__1_.v(39): (vlog-2892) Net type of 'wl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__1_.v(41): (vlog-2892) Net type of 'chanx_left_out' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__1_.v(43): (vlog-2892) Net type of 'chanx_right_out' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__1_.v(45): (vlog-2892) Net type of 'top_grid_bottom_width_0_height_0_subtile_0__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__1_.v(47): (vlog-2892) Net type of 'top_grid_bottom_width_0_height_0_subtile_1__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__1_.v(49): (vlog-2892) Net type of 'top_grid_bottom_width_0_height_0_subtile_2__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__1_.v(51): (vlog-2892) Net type of 'top_grid_bottom_width_0_height_0_subtile_3__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__1_.v(53): (vlog-2892) Net type of 'top_grid_bottom_width_0_height_0_subtile_4__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__1_.v(55): (vlog-2892) Net type of 'top_grid_bottom_width_0_height_0_subtile_5__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__1_.v(57): (vlog-2892) Net type of 'top_grid_bottom_width_0_height_0_subtile_6__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__1_.v(59): (vlog-2892) Net type of 'top_grid_bottom_width_0_height_0_subtile_7__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__1_.v(61): (vlog-2892) Net type of 'bottom_grid_top_width_0_height_0_subtile_0__pin_I_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__1_.v(63): (vlog-2892) Net type of 'bottom_grid_top_width_0_height_0_subtile_0__pin_I_4_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cbx_1__1_.v(65): (vlog-2892) Net type of 'bottom_grid_top_width_0_height_0_subtile_0__pin_I_8_' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/user_defined_templates.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/user_defined_templates.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module DFFSRQ
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/user_defined_templates.v(22): (vlog-2892) Net type of 'SET' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/user_defined_templates.v(24): (vlog-2892) Net type of 'RST' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/user_defined_templates.v(26): (vlog-2892) Net type of 'CK' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/user_defined_templates.v(28): (vlog-2892) Net type of 'D' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/user_defined_templates.v(30): (vlog-2892) Net type of 'Q' was not explicitly declared.
+-- Compiling module SRAM
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/user_defined_templates.v(60): (vlog-2892) Net type of 'D' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/user_defined_templates.v(62): (vlog-2892) Net type of 'WE' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/user_defined_templates.v(64): (vlog-2892) Net type of 'Q' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/user_defined_templates.v(66): (vlog-2892) Net type of 'QN' was not explicitly declared.
+-- Compiling module GPIO
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/user_defined_templates.v(96): (vlog-2892) Net type of 'PAD' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/user_defined_templates.v(98): (vlog-2892) Net type of 'A' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/user_defined_templates.v(100): (vlog-2892) Net type of 'DIR' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/user_defined_templates.v(102): (vlog-2892) Net type of 'Y' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4.v(25): (vlog-2892) Net type of 'set' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4.v(27): (vlog-2892) Net type of 'reset' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4.v(29): (vlog-2892) Net type of 'clk' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4.v(35): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4.v(37): (vlog-2892) Net type of 'wl' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_1__1_.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_1__1_.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module cby_1__1_
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_1__1_.v(33): (vlog-2892) Net type of 'chany_bottom_in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_1__1_.v(35): (vlog-2892) Net type of 'chany_top_in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_1__1_.v(37): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_1__1_.v(39): (vlog-2892) Net type of 'wl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_1__1_.v(41): (vlog-2892) Net type of 'chany_bottom_out' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_1__1_.v(43): (vlog-2892) Net type of 'chany_top_out' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_1__1_.v(45): (vlog-2892) Net type of 'right_grid_left_width_0_height_0_subtile_0__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_1__1_.v(47): (vlog-2892) Net type of 'right_grid_left_width_0_height_0_subtile_1__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_1__1_.v(49): (vlog-2892) Net type of 'right_grid_left_width_0_height_0_subtile_2__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_1__1_.v(51): (vlog-2892) Net type of 'right_grid_left_width_0_height_0_subtile_3__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_1__1_.v(53): (vlog-2892) Net type of 'right_grid_left_width_0_height_0_subtile_4__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_1__1_.v(55): (vlog-2892) Net type of 'right_grid_left_width_0_height_0_subtile_5__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_1__1_.v(57): (vlog-2892) Net type of 'right_grid_left_width_0_height_0_subtile_6__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_1__1_.v(59): (vlog-2892) Net type of 'right_grid_left_width_0_height_0_subtile_7__pin_outpad_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_1__1_.v(61): (vlog-2892) Net type of 'left_grid_right_width_0_height_0_subtile_0__pin_I_1_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_1__1_.v(63): (vlog-2892) Net type of 'left_grid_right_width_0_height_0_subtile_0__pin_I_5_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/cby_1__1_.v(65): (vlog-2892) Net type of 'left_grid_right_width_0_height_0_subtile_0__pin_I_9_' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(12): Cannot open `include file "./SRC/fpga_defines.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(15): Cannot open `include file "/mnt/d/EECS627/OpenFPGA/openfpga_flow/openfpga_cell_library/verilog/dff.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(16): Cannot open `include file "/mnt/d/EECS627/OpenFPGA/openfpga_flow/openfpga_cell_library/verilog/sram.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(17): Cannot open `include file "/mnt/d/EECS627/OpenFPGA/openfpga_flow/openfpga_cell_library/verilog/gpio.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(19): Cannot open `include file "./SRC/sub_module/inv_buf_passgate.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(20): Cannot open `include file "./SRC/sub_module/arch_encoder.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(21): Cannot open `include file "./SRC/sub_module/local_encoder.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(22): Cannot open `include file "./SRC/sub_module/mux_primitives.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(23): Cannot open `include file "./SRC/sub_module/muxes.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(24): Cannot open `include file "./SRC/sub_module/luts.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(25): Cannot open `include file "./SRC/sub_module/wires.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(26): Cannot open `include file "./SRC/sub_module/memories.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(27): Cannot open `include file "./SRC/sub_module/shift_register_banks.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(30): Cannot open `include file "./SRC/lb/logical_tile_io_mode_physical__iopad.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(31): Cannot open `include file "./SRC/lb/logical_tile_io_mode_io_.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(32): Cannot open `include file "./SRC/lb/logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4_mode_default__lut4.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(33): Cannot open `include file "./SRC/lb/logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4_mode_default__ff.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(34): Cannot open `include file "./SRC/lb/logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(35): Cannot open `include file "./SRC/lb/logical_tile_clb_mode_default__fle.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(36): Cannot open `include file "./SRC/lb/logical_tile_clb_mode_clb_.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(37): Cannot open `include file "./SRC/lb/grid_io_top.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(38): Cannot open `include file "./SRC/lb/grid_io_right.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(39): Cannot open `include file "./SRC/lb/grid_io_bottom.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(40): Cannot open `include file "./SRC/lb/grid_io_left.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(41): Cannot open `include file "./SRC/lb/grid_clb.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(44): Cannot open `include file "./SRC/routing/sb_0__0_.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(45): Cannot open `include file "./SRC/routing/sb_0__1_.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(46): Cannot open `include file "./SRC/routing/sb_1__0_.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(47): Cannot open `include file "./SRC/routing/sb_1__1_.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(48): Cannot open `include file "./SRC/routing/cbx_1__0_.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(49): Cannot open `include file "./SRC/routing/cbx_1__1_.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(50): Cannot open `include file "./SRC/routing/cby_0__1_.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(51): Cannot open `include file "./SRC/routing/cby_1__1_.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/fabric_netlists.v(54): Cannot open `include file "./SRC/fpga_top.v".
+
+} {3.0 37.0} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module mux_2level_tapbuf_basis_input3_mem3
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(20): (vlog-2892) Net type of 'in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(22): (vlog-2892) Net type of 'mem' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(24): (vlog-2892) Net type of 'mem_inv' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(26): (vlog-2892) Net type of 'out' was not explicitly declared.
+-- Compiling module mux_2level_tapbuf_basis_input2_mem1
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(78): (vlog-2892) Net type of 'in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(80): (vlog-2892) Net type of 'mem' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(82): (vlog-2892) Net type of 'mem_inv' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(84): (vlog-2892) Net type of 'out' was not explicitly declared.
+-- Compiling module mux_2level_basis_input4_mem4
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(130): (vlog-2892) Net type of 'in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(132): (vlog-2892) Net type of 'mem' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(134): (vlog-2892) Net type of 'mem_inv' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(136): (vlog-2892) Net type of 'out' was not explicitly declared.
+-- Compiling module mux_2level_basis_input3_mem3
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(194): (vlog-2892) Net type of 'in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(196): (vlog-2892) Net type of 'mem' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(198): (vlog-2892) Net type of 'mem_inv' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(200): (vlog-2892) Net type of 'out' was not explicitly declared.
+-- Compiling module mux_1level_tapbuf_basis_input3_mem3
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(252): (vlog-2892) Net type of 'in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(254): (vlog-2892) Net type of 'mem' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(256): (vlog-2892) Net type of 'mem_inv' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(258): (vlog-2892) Net type of 'out' was not explicitly declared.
+-- Compiling module lut4_mux_basis_input2_mem1
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(310): (vlog-2892) Net type of 'in' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(312): (vlog-2892) Net type of 'mem' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(314): (vlog-2892) Net type of 'mem_inv' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/mux_primitives.v(316): (vlog-2892) Net type of 'out' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2_include_netlists.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2_include_netlists.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2_include_netlists.v(12): Cannot open `include file "./SRC/fabric_netlists.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2_include_netlists.v(14): Cannot open `include file "and2_output_verilog.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2_include_netlists.v(16): Cannot open `include file "./SRC/and2_top_formal_verification.v".
+** Error: /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2_include_netlists.v(17): Cannot open `include file "./SRC/and2_formal_random_top_tb.v".
+
+} {3.0 7.0} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4_mode_default__ff.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4_mode_default__ff.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4_mode_default__ff
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4_mode_default__ff.v(22): (vlog-2892) Net type of 'set' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4_mode_default__ff.v(24): (vlog-2892) Net type of 'reset' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4_mode_default__ff.v(26): (vlog-2892) Net type of 'clk' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_clb.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_clb.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module grid_clb
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_clb.v(37): (vlog-2892) Net type of 'set' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_clb.v(39): (vlog-2892) Net type of 'reset' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_clb.v(41): (vlog-2892) Net type of 'clk' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_clb.v(43): (vlog-2892) Net type of 'top_width_0_height_0_subtile_0__pin_I_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_clb.v(45): (vlog-2892) Net type of 'top_width_0_height_0_subtile_0__pin_I_4_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_clb.v(47): (vlog-2892) Net type of 'top_width_0_height_0_subtile_0__pin_I_8_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_clb.v(49): (vlog-2892) Net type of 'right_width_0_height_0_subtile_0__pin_I_1_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_clb.v(51): (vlog-2892) Net type of 'right_width_0_height_0_subtile_0__pin_I_5_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_clb.v(53): (vlog-2892) Net type of 'right_width_0_height_0_subtile_0__pin_I_9_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_clb.v(55): (vlog-2892) Net type of 'bottom_width_0_height_0_subtile_0__pin_I_2_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_clb.v(57): (vlog-2892) Net type of 'bottom_width_0_height_0_subtile_0__pin_I_6_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_clb.v(59): (vlog-2892) Net type of 'bottom_width_0_height_0_subtile_0__pin_clk_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_clb.v(61): (vlog-2892) Net type of 'left_width_0_height_0_subtile_0__pin_I_3_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_clb.v(63): (vlog-2892) Net type of 'left_width_0_height_0_subtile_0__pin_I_7_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_clb.v(65): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_clb.v(67): (vlog-2892) Net type of 'wl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_clb.v(69): (vlog-2892) Net type of 'top_width_0_height_0_subtile_0__pin_O_2_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_clb.v(71): (vlog-2892) Net type of 'right_width_0_height_0_subtile_0__pin_O_3_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_clb.v(73): (vlog-2892) Net type of 'bottom_width_0_height_0_subtile_0__pin_O_0_' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/grid_clb.v(75): (vlog-2892) Net type of 'left_width_0_height_0_subtile_0__pin_O_1_' was not explicitly declared.
+
+} {} {}}

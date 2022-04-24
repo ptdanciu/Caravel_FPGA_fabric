@@ -1,0 +1,169 @@
+/afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/run002/k4_N4_tileable_40nm/and2/MIN_ROUTE_CHAN_WIDTH/SRC/lb/logical_tile_io_mode_physical__iopad.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/run002/k4_N4_tileable_40nm/and2/MIN_ROUTE_CHAN_WIDTH/SRC/lb/logical_tile_io_mode_physical__iopad.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module logical_tile_io_mode_physical__iopad
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/run002/k4_N4_tileable_40nm/and2/MIN_ROUTE_CHAN_WIDTH/SRC/lb/logical_tile_io_mode_physical__iopad.v(21): (vlog-2892) Net type of 'gfpga_pad_GPIO_PAD' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/run002/k4_N4_tileable_40nm/and2/MIN_ROUTE_CHAN_WIDTH/SRC/lb/logical_tile_io_mode_physical__iopad.v(25): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/run002/k4_N4_tileable_40nm/and2/MIN_ROUTE_CHAN_WIDTH/SRC/lb/logical_tile_io_mode_physical__iopad.v(27): (vlog-2892) Net type of 'wl' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/run002/k4_N4_tileable_40nm/and2/MIN_ROUTE_CHAN_WIDTH/SRC/fpga_top.v {1 {vlog -work work -suppress 2892 -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/run002/k4_N4_tileable_40nm/and2/MIN_ROUTE_CHAN_WIDTH/SRC/fpga_top.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module fpga_top
+
+Top level modules:
+	fpga_top
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2_formal_random_top_tb.v {1 {vlog -work testbenchs -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2_formal_random_top_tb.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module and2_top_formal_verification_random_tb
+
+Top level modules:
+	and2_top_formal_verification_random_tb
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/run002/k4_N4_tileable_40nm/and2/MIN_ROUTE_CHAN_WIDTH/SRC/fabric_netlists.v {1 {vlog -work work -suppress 2892 -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/run002/k4_N4_tileable_40nm/and2/MIN_ROUTE_CHAN_WIDTH/SRC/fabric_netlists.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module DFFQ
+-- Compiling module DFF
+-- Compiling module DFFRQ
+-- Compiling module DFFR
+-- Compiling module DFFRN
+-- Compiling module DFFS
+-- Compiling module DFFSN
+-- Compiling module DFFSR
+-- Compiling module DFFSRQ
+-- Compiling module MULTI_MODE_DFFSRQ
+-- Compiling module MULTI_MODE_DFFRQ
+-- Compiling module SDFFSR
+-- Compiling module SDFFRQ
+-- Compiling module SDFFSRQ
+-- Compiling module CFGSDFFR
+-- Compiling module BL_DFFRQ
+-- Compiling module WL_DFFRQ
+-- Compiling module WLR_DFFRQ
+-- Compiling module SRAM
+-- Compiling module SRAMS
+-- Compiling module SRAMSN
+-- Compiling module SRAMR
+-- Compiling module SRAMRN
+-- Compiling module SRAMSR
+-- Compiling module SRAM_RE
+-- Compiling module SRAMSNRN
+-- Compiling module sram6T_rram
+-- Compiling module GPIO
+-- Compiling module GPIN
+-- Compiling module GPOUT
+-- Compiling module EMBEDDED_IO
+-- Compiling module EMBEDDED_IO_ISOLN
+-- Compiling module const0
+-- Compiling module const1
+-- Compiling module INVTX1
+-- Compiling module buf4
+-- Compiling module tap_buf4
+-- Compiling module TGATE
+-- Compiling module decoder_with_data_in_5to29
+-- Compiling module decoder5to29
+-- Compiling module mux_2level_tapbuf_basis_input3_mem3
+-- Compiling module mux_2level_tapbuf_basis_input2_mem1
+-- Compiling module mux_2level_basis_input4_mem4
+-- Compiling module mux_2level_basis_input3_mem3
+-- Compiling module mux_1level_tapbuf_basis_input3_mem3
+-- Compiling module lut4_mux_basis_input2_mem1
+-- Compiling module mux_2level_tapbuf_size6
+-- Compiling module mux_2level_tapbuf_size4
+-- Compiling module mux_2level_tapbuf_size3
+-- Compiling module mux_2level_tapbuf_size2
+-- Compiling module mux_2level_size14
+-- Compiling module mux_1level_tapbuf_size2
+-- Compiling module lut4_mux
+-- Compiling module lut4
+-- Compiling module direct_interc
+-- Compiling module mux_2level_tapbuf_size6_mem
+-- Compiling module mux_2level_tapbuf_size4_mem
+-- Compiling module mux_2level_tapbuf_size3_mem
+-- Compiling module mux_2level_tapbuf_size2_mem
+-- Compiling module mux_2level_size14_mem
+-- Compiling module mux_1level_tapbuf_size2_mem
+-- Compiling module lut4_SRAM_mem
+-- Compiling module GPIO_SRAM_mem
+-- Compiling module logical_tile_io_mode_physical__iopad
+-- Compiling module logical_tile_io_mode_io_
+-- Compiling module logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4_mode_default__lut4
+-- Compiling module logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4_mode_default__ff
+-- Compiling module logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4
+-- Compiling module logical_tile_clb_mode_default__fle
+-- Compiling module logical_tile_clb_mode_clb_
+-- Compiling module grid_io_top
+-- Compiling module grid_io_right
+-- Compiling module grid_io_bottom
+-- Compiling module grid_io_left
+-- Compiling module grid_clb
+-- Compiling module sb_0__0_
+-- Compiling module sb_0__1_
+-- Compiling module sb_1__0_
+-- Compiling module sb_1__1_
+-- Compiling module cbx_1__0_
+-- Compiling module cbx_1__1_
+-- Compiling module cby_0__1_
+-- Compiling module cby_1__1_
+-- Compiling module fpga_top
+
+Top level modules:
+	DFFQ
+	DFF
+	DFFR
+	DFFRN
+	DFFS
+	DFFSN
+	DFFSR
+	MULTI_MODE_DFFSRQ
+	MULTI_MODE_DFFRQ
+	SDFFSR
+	SDFFRQ
+	SDFFSRQ
+	CFGSDFFR
+	BL_DFFRQ
+	WL_DFFRQ
+	WLR_DFFRQ
+	SRAMS
+	SRAMSN
+	SRAMR
+	SRAMRN
+	SRAMSR
+	SRAM_RE
+	SRAMSNRN
+	sram6T_rram
+	GPIN
+	GPOUT
+	EMBEDDED_IO
+	EMBEDDED_IO_ISOLN
+	const0
+	fpga_top
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2_top_formal_verification.v {1 {vlog -work work -suppress 2892 -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2_top_formal_verification.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module and2_top_formal_verification
+
+Top level modules:
+	and2_top_formal_verification
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2.v {1 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module and2
+
+Top level modules:
+	and2
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_io_mode_physical__iopad.v {0 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_io_mode_physical__iopad.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module logical_tile_io_mode_physical__iopad
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_io_mode_physical__iopad.v(21): (vlog-2892) Net type of 'gfpga_pad_GPIO_PAD' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_io_mode_physical__iopad.v(25): (vlog-2892) Net type of 'bl' was not explicitly declared.
+** Error (suppressible): /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/logical_tile_io_mode_physical__iopad.v(27): (vlog-2892) Net type of 'wl' was not explicitly declared.
+
+} {} {}} /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2_autocheck_top_tb.v {1 {vlog -work work -stats=none /afs/umich.edu/user/p/t/ptdanciu/Desktop/EECS627/Project/and2_autocheck_top_tb.v
+Model Technology ModelSim DE vlog 2021.3 Compiler 2021.07 Jul 13 2021
+-- Compiling module and2_autocheck_top_tb
+
+Top level modules:
+	and2_autocheck_top_tb
+
+} {} {}}

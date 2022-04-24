@@ -2,4 +2,49 @@
 -v $(USER_PROJECT_VERILOG)/rtl/user_project_wrapper.v	     
 -v $(USER_PROJECT_VERILOG)/rtl/user_proj_example.v
 
+#fpga includes
+-v $(USER_PROJECT_VERILOG)/rtl/fpga_defines.v
+-v $(USER_PROJECT_VERILOG)/rtl/and2.v
+
+
+-v $(USER_PROJECT_VERILOG)/rtl/dff.v
+-v $(USER_PROJECT_VERILOG)/rtl/sram.v
+-v $(USER_PROJECT_VERILOG)/rtl/gpio.v
+
+-v $(USER_PROJECT_VERILOG)/rtl/inv_buf_passgate.v
+-v $(USER_PROJECT_VERILOG)/rtl/arch_encoder.v
+-v $(USER_PROJECT_VERILOG)/rtl/local_encoder.v
+-v $(USER_PROJECT_VERILOG)/rtl/mux_primitives.v
+-v $(USER_PROJECT_VERILOG)/rtl/muxes.v
+-v $(USER_PROJECT_VERILOG)/rtl/luts.v
+-v $(USER_PROJECT_VERILOG)/rtl/wires.v
+-v $(USER_PROJECT_VERILOG)/rtl/memories.v
+-v $(USER_PROJECT_VERILOG)/rtl/shift_register_banks.v
+
+
+-v $(USER_PROJECT_VERILOG)/rtl/logical_tile_io_mode_physical__iopad.v
+-v $(USER_PROJECT_VERILOG)/rtl/logical_tile_io_mode_io_.v
+-v $(USER_PROJECT_VERILOG)/rtl/logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4_mode_default__lut4.v
+-v $(USER_PROJECT_VERILOG)/rtl/logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4_mode_default__ff.v
+-v $(USER_PROJECT_VERILOG)/rtl/logical_tile_clb_mode_default__fle_mode_n1_lut4__ble4.v
+-v $(USER_PROJECT_VERILOG)/rtl/logical_tile_clb_mode_default__fle.v
+-v $(USER_PROJECT_VERILOG)/rtl/logical_tile_clb_mode_clb_.v
+-v $(USER_PROJECT_VERILOG)/rtl/grid_io_top.v
+-v $(USER_PROJECT_VERILOG)/rtl/grid_io_right.v
+-v $(USER_PROJECT_VERILOG)/rtl/grid_io_bottom.v
+-v $(USER_PROJECT_VERILOG)/rtl/grid_io_left.v
+-v $(USER_PROJECT_VERILOG)/rtl/grid_clb.v
+
+
+-v $(USER_PROJECT_VERILOG)/rtl/sb_0__0_.v
+-v $(USER_PROJECT_VERILOG)/rtl/sb_0__1_.v
+-v $(USER_PROJECT_VERILOG)/rtl/sb_1__0_.v
+-v $(USER_PROJECT_VERILOG)/rtl/sb_1__1_.v
+-v $(USER_PROJECT_VERILOG)/rtl/cbx_1__0_.v
+-v $(USER_PROJECT_VERILOG)/rtl/cbx_1__1_.v
+-v $(USER_PROJECT_VERILOG)/rtl/cby_0__1_.v
+-v $(USER_PROJECT_VERILOG)/rtl/cby_1__1_.v
+
+
+-v $(USER_PROJECT_VERILOG)/rtl/fpga_top.v
  

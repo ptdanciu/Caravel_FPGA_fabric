@@ -27,11 +27,11 @@ module wb_port_tb;
 	wire gpio;
 	wire [37:0] mprj_io;
 	wire [7:0] mprj_io_0;
-	wire [15:0] checkbits;
+	wire [37:0] checkbits;
 
-	assign checkbits = mprj_io[31:16];
+	assign checkbits = mprj_io[37:0];
 
-	assign mprj_io[3] = 1'b1;
+	//assign mprj_io[3] = 1'b1;
 
 	// External clock is used by default.  Make this artificially fast for the
 	// simulation.  Normally this would be a slow clock and the digital PLL
@@ -63,14 +63,17 @@ module wb_port_tb;
 	end
 
 	initial begin
-	   wait(checkbits == 16'hAB60);
-		$display("Monitor: MPRJ-Logic WB Started");
+		$monitor("%b", checkbits);
+	   wait(checkbits == 32'h00002711);
+		$display("bits written successfully");
+		/*
 		wait(checkbits == 16'hAB61);
 		`ifdef GL
 	    	$display("Monitor: Mega-Project WB (GL) Passed");
 		`else
 		    $display("Monitor: Mega-Project WB (RTL) Passed");
 		`endif
+		*/
 	    $finish;
 	end
 
