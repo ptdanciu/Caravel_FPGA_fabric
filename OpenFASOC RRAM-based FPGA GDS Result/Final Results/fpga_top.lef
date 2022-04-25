@@ -4,8 +4,8 @@ DIVIDERCHAR "/" ;
 UNITS
     DATABASE MICRONS 1000 ;
 END UNITS
-MACRO test_lut_inst
-  FOREIGN test_lut_inst 0 0 ;
+MACRO fpga_top
+  FOREIGN fpga_top 0 0 ;
   CLASS BLOCK ;
   ORIGIN 0 0 ;
   SIZE 352.05 BY 202 ;

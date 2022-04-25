@@ -1,4 +1,4 @@
-module test_lut_inst (clk,
+module fpga_top (clk,
     data_in,
     enable,
     reset,
